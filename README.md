@@ -36,4 +36,4 @@ I am a graduate in Biomedical Engineering from Aachen University of Applied Scie
 
 ### 🤝 Volunteering:
 
-- I actively volunteer with Innovate Toronto, contributing to marketing and operations to boost engagement and ensure smooth execution of tech events.
+- I actively volunteer with Innovate Toronto, contributing to marketing and operations to boost engagement and ensure a smooth execution of tech events.
