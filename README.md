@@ -1,6 +1,6 @@
-# Hello! I'm Asal 👋
+# Hello! I'm Asal 👋🏻
 
-## 🧬 Biomedical Engineer | 📊 Data Scientist | 🌟 Tech Innovator
+## 🧬 Biomedical Engineer | 📊 Data Scientist 
 
 I am a graduate in Biomedical Engineering from Aachen University of Applied Sciences and have also earned a Diploma in Data Science from Lighthouse Labs, Toronto. I am deeply passionate about harnessing technology and data to revolutionize healthcare and biotechnology.
 
