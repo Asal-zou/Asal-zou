@@ -31,7 +31,7 @@ I am a graduate in Biomedical Engineering from Aachen University of Applied Scie
 
 ### 📫 How to reach me:
 
-- **LinkedIn**: https://github.com/Asal-zou
+- **LinkedIn**: www.linkedin.com/in/asal-ashkiany
 - **Email**: Asal.zooashkiany@gmail.com
 
 ### 🤝 Volunteering:
